@@ -1,4 +1,3 @@
-## Write a short comment describing this function
 ## This function accepts a matrix and performs a series of steps to firstly
 ## set up the X and M objects in the parent environment and then create
 ## some setters and getters in the form of a list of functions
